@@ -1,0 +1,4 @@
+streamlit==1.32.0          # Web 界面
+numpy==1.26.4              # 数组计算
+pandas==2.2.2              # 表格展示
+scipy==1.13.0              # 线性规划（linprog）
